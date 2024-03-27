@@ -1,0 +1,73 @@
+body {
+	font-family: "Poiret One", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+h1 {
+	font-family: 'AR BONNIE';
+	font-size: 64pt;
+	text-align: center;
+	margin: 1%;
+}
+
+h2 {
+	font-family: 'AR BONNIE';
+	font-size: 26pt;
+	text-align: center;
+}
+
+h3 {
+	font-size: 32pt;
+	color: red;
+	text-align: center;
+}
+
+.beginning {
+	font-size: 20pt;
+	text-align: justify;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.lists {
+	font-size: 20pt;
+	margin-left: 10%;
+}
+
+.condition {
+	margin-left: 40px;
+	text-align: left;
+	font-size: 18pt;
+}
+
+.title {
+	font-size: 16pt;
+	text-align: center;
+	font-weight: 600;
+}
+
+.bigger {
+	font-size: 18pt;
+	font-weight: 700;
+}
+
+.footer {
+	font-weight: 500;
+	font-size: 14pt;
+	text-align: center;
+}
+
+.root {
+	text-align: right;
+	font-size: 10pt;
+}
+
+.pictures {
+	text-align: center;
+}
+
+nav {
+	font-size: 18pt;
+	margin-left: 10%;
+}
